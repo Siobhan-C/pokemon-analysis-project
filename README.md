@@ -27,6 +27,11 @@ GitHub and Data Visualization
 ### Siobhan:
 Project Management and README
 
+## Code Review for Quality Assurance
+* To ensure the quality and accuracy of our code, we conducted a thorough code review process.
+* This involved meticulously examining the written code across all stages of the project, identifying potential errors, and suggesting improvements.
+* We reviewed the code as a team.
+
 ## Refining Our Approach: Focusing on Gen 1 Starters with the Power of a Secure API
 
 ### Initial Scope and Challenges:
