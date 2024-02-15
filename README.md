@@ -18,10 +18,8 @@ This data analysis project aims to unlock the secrets behind Pokémon evolution 
 * How do different encounter conditions compare to each other?
 
 ## Selected Datasets
-### Evolution: Triggers
-### Locations
-### Pokémon: Types
-### Encounters: Methods, Conditions, Condition Values
+* Evolution: Chains
+* Pokémon: Types
 
 ## Task Breakdown
 ### Angelica:
