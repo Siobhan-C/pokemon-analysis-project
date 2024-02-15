@@ -62,5 +62,5 @@ Project Management and README
 * Starting broad can be valuable for exploration, but refining the scope based on data characteristics and employing tools like secure APIs leads to more focused and insightful analysis.
 * Tailoring research questions to leverage the unique features of the chosen dataset ensures interesting and relevant findings.
 
-## Presentation Link
+## Presentation
 https://www.canva.com/design/DAF8zbmX9gw/QoSCJzUGvwYNSg66iKqYTw/view?utm_content=DAF8zbmX9gw&utm_campaign=designshare&utm_medium=link&utm_source=editor#1
